@@ -1,0 +1,31 @@
+### Case name: 
+Supreme Court of India vs. Narcoanalysis, Polygraph Examination, and Brain Electro-Stimulation (BEAP) Test
+### Case Type: 
+Constitutional Law, Right to Personal Liberty, Right to Privacy
+### Arguments by Plaintiff:
+- The plaintiff argued that the results obtained through the polygraph examination and the Brain Electrical Activity Mapping (BEAP) test should be treated as 'personal testimony', which attracts the protective shield of the right against self-incrimination under Article 20(3) of the Constitution.
+### Arguments by Defendant:
+- The defendant argued that the right against self-incrimination under Article 20(3) of the Constitution is not applicable when a person gives her/his informed consent to undergo any one of the impugned tests.
+### Case:
+The case revolves around the use of narcoanalysis, polygraph examination, and brain electro-stimulation (BEAP) tests in an involuntary manner, and whether the results obtained from these tests can be used as evidence in a criminal trial.
+### Summary: 
+The Supreme Court held that the use of narcoanalysis, polygraph examination, and brain electro-stimulation (BEAP) tests in an involuntary manner amounts to "cruel, inhuman and degrading treatment" and is violative of Article 21 of the Constitution. The court also held that the compulsory administration of these tests is a violation of the right to personal liberty guaranteed under Article 21 of the Constitution.
+### Main Arguments: 
+- The main arguments were centered around the interpretation of Article 20(3) of the Constitution, which deals with the right against self-incrimination, and Article 21, which deals with the right to personal liberty.
+- The plaintiff argued that the results obtained from the tests should be treated as 'personal testimony' and therefore protected under Article 20(3).
+- The defendant argued that the right against self-incrimination is not applicable when a person gives informed consent to undergo the tests.
+### Court Decisions: 
+- The Supreme Court held that the use of narcoanalysis, polygraph examination, and brain electro-stimulation (BEAP) tests in an involuntary manner amounts to "cruel, inhuman and degrading treatment" and is violative of Article 21 of the Constitution.
+- The court also held that the compulsory administration of these tests is a violation of the right to personal liberty guaranteed under Article 21 of the Constitution.
+- The court ruled that the results of such tests cannot be admitted as evidence in a criminal trial.
+### Legal Precedents or Statutes Cited: 
+- Article 20(3) of the Constitution of India (Right against self-incrimination)
+- Article 21 of the Constitution of India (Right to personal liberty)
+- Substantive Due Process Clause
+### Quotations from the court: 
+- "The impugned techniques cannot be categorised as 'material evidence' since they bear a 'testimonial character' and they cannot be admitted in evidence if they are obtained through the use of compulsion."
+- "Forcing an individual to undergo any of these techniques violates the standard of 'Substantive Due Process' which is required for restricting personal liberty."
+### Judgement: 
+The Supreme Court held that the use of narcoanalysis, polygraph examination, and brain electro-stimulation (BEAP) tests in an involuntary manner is violative of Article 21 of the Constitution and that the results of such tests cannot be admitted as evidence in a criminal trial.
+### Conclusion: 
+The Supreme Court's decision has significant implications for the use of narcoanalysis, polygraph examination, and brain electro-stimulation (BEAP) tests in India, and highlights the importance of protecting individual rights and dignity.
