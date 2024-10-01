@@ -1682,13 +1682,13 @@ const urlParams = new URLSearchParams(window.location.search);
 let case_details={};
 
 // Retrieve specific parameters using the .get() method
-const casenum = urlParams.get('case')||"";
+const casenum = urlParams.get('case')||"MANU_SC_1975_0304";
 const lang = urlParams.get('lang')||"English";
 
 const submitted=urlParams.get('submitted')||false;
 
 console.log(lang,"language", casenum,"case");
-sessionStorage.setItem("case",casenum==""?"MANU_SC_1975_0304":casenum);
+sessionStorage.setItem("case",casenum);
 sessionStorage.setItem("language",lang);
 // Fetch the JSON file and store it in a dictionary
 fetch('media/data.json')  // Ensure 'data.json' is in the same directory
