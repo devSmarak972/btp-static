@@ -58,7 +58,7 @@ def createPDF(case, language, content):
 		pdf.set_font('NotoSansDevanagari', '', 12)
 		f='NotoSansDevanagari'
 		sep = "|"
-	
+	pdf.set_text_shaping(True)
 	# Process the content and add it to the PDF
 	for line in content.split("\n\n"):
 		heading = re.findall(r'\*(.*?)\*', line)
@@ -202,7 +202,7 @@ def main(case_num,lang):
 	else:
 		print(case_num,"English")
 		ret=eng_sections
-	# print(ret,case_num,lang)
+	print(ret,case_num,lang)
 	ret["Case Type"]=[it.strip() for it in eng_sections["Case Type"].split(",")]
 	ret["Case name"]=eng_sections["Case name"]
 	# reordering-----
@@ -244,5 +244,5 @@ for case in cases.keys():
 		master_dict[case][lang]=data
 import json
 # Save the dictionary as a JSON file
-with open("data.json", "w",encoding="utf-8") as json_file:
+with open("data1.json", "w",encoding="utf-8") as json_file:
     json.dump(master_dict, json_file,ensure_ascii=False, indent=4)
